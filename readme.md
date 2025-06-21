@@ -9,11 +9,8 @@
     <img src="./assets/img/BluuCloud.png" alt="BluuCloud" width="130" height="150">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">Meeting Calendar</h3>
 </div>
-<!-- TODO: Make a short description -->
-<div align="center">
-  Short Description. (Optional)
 </div>
 
 <br />
