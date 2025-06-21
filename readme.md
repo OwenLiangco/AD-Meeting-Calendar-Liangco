@@ -5,22 +5,19 @@
 <br />
 <div align="center">
   <a href="https://github.com/zyx-0314/">
-  <!-- TODO: If you want to add logo or banner you can add it here -->
     <img src="./assets/img/BluuCloud.png" alt="BluuCloud" width="130" height="150">
   </a>
-<!-- TODO: Change Title to the name of the title of your Project -->
+
   <h3 align="center">Meeting Calendar</h3>
 </div>
 </div>
 
 <br />
 
-<!-- TODO: Change the zyx-0314 into your github username  -->
-<!-- TODO: Change the WD-Template-Project into the same name of your folder -->
 
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/AD-CI4-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=OwenLiangco/AD-Meeting-Calendar-Liangco)
 
-[![wakatime](https://wakatime.com/badge/user/018dd99a-4985-4f98-8216-6ca6fe2ce0f8/project/63501637-9a31-42f0-960d-4d0ab47977f8.svg)](https://wakatime.com/badge/user/018dd99a-4985-4f98-8216-6ca6fe2ce0f8/project/63501637-9a31-42f0-960d-4d0ab47977f8)
+[![wakatime](https://wakatime.com/badge/user/560aac68-1590-4066-a9a0-d2f81918e124/project/565a8f9e-8920-40e2-9e15-b06df7801b44.svg)](https://wakatime.com/badge/user/560aac68-1590-4066-a9a0-d2f81918e124/project/565a8f9e-8920-40e2-9e15-b06df7801b44)
 
 ---
 
@@ -55,18 +52,13 @@
 
 ## Overview
 
-<!-- TODO: To be changed -->
-<!-- The following are just sample -->
-
-Description of the project in details.
+A meeting website with a working database and complexity.
 
 ### Key Components
 
-<!-- TODO: List of Key Components -->
-<!-- The following are just sample -->
-
 - Authentication & Authorization
 - CRUD Operations for Invetory System
+- Database that sorts, delete, and updates user data.
 
 ### Technology
 
